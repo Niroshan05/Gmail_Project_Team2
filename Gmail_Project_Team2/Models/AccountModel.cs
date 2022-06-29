@@ -6,7 +6,7 @@ using System.Web;
 namespace Gmail_Project_Team2.Models
 {
     public class AccountModel
-    {
+    {//test
         public string Uesrname { get; set; }
         public string Password { get; set; }
     }
